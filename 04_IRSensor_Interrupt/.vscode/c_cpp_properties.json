@@ -1,19 +1,6 @@
 {
     "configurations": [
         {
-            "name": "Win32",
-            "includePath": [
-                "${workspaceFolder}/**"
-            ],
-            "defines": [
-                "_DEBUG",
-                "UNICODE",
-                "_UNICODE"
-            ],
-            "windowsSdkVersion": "10.0.22000.0",
-            "intelliSenseMode": "windows-msvc-x64"
-        },
-        {
             "name": "Target 1",
             "includePath": [
                 "e:\\Docs\\Embedded\\jkd_stm32\\MyWorkPlace\\04_IRSensor_Interrupt\\Start",
@@ -23,6 +10,7 @@
                 "e:\\Docs\\Embedded\\jkd_stm32\\MyWorkPlace\\04_IRSensor_Interrupt\\Hardware",
                 "C:\\Program Files\\Keil\\ARM\\ARMCC\\include",
                 "C:\\Program Files\\Keil\\ARM\\ARMCC\\include\\rw",
+                "e:\\Docs\\Embedded\\jkd_stm32\\MyWorkPlace\\04_IRSensor_Interrupt",
                 "${default}",
                 "${workspaceFolder}/**"
             ],
