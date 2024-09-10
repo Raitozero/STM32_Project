@@ -14,6 +14,7 @@ int main(void){
 	while(1){
 		if(Is_Key_Pressed(GPIO_Pin_1)) Led_Turn(GPIO_Pin_0);
 		if(Is_Key_Pressed(GPIO_Pin_11)) Led_Turn(GPIO_Pin_1);
+		//默认是上拉，如果有光，那么传感器无电阻，短路pin到GND，那么return 0；相反，无光，有电阻，不会短路，还是1
 		if(LightSensor_Bit() == 1) Buzzer_On();
 		else Buzzer_Off();
 	}

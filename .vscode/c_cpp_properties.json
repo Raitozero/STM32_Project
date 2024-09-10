@@ -16,13 +16,11 @@
         {
             "name": "Target 1",
             "includePath": [
-                "e:\\Docs\\Embedded\\jkd_stm32\\MyWorkPlace\\04_IRSensor_Interrupt\\Start",
-                "e:\\Docs\\Embedded\\jkd_stm32\\MyWorkPlace\\04_IRSensor_Interrupt\\Library",
-                "e:\\Docs\\Embedded\\jkd_stm32\\MyWorkPlace\\04_IRSensor_Interrupt\\User",
-                "e:\\Docs\\Embedded\\jkd_stm32\\MyWorkPlace\\04_IRSensor_Interrupt\\System",
-                "e:\\Docs\\Embedded\\jkd_stm32\\MyWorkPlace\\04_IRSensor_Interrupt\\Hardware",
-                "C:\\Program Files\\Keil\\ARM\\ARMCC\\include",
-                "C:\\Program Files\\Keil\\ARM\\ARMCC\\include\\rw",
+                "e:\\docs\\Embedded\\jkd_stm32\\MyWorkPlace\\04_IRSensor_Interrupt\\Start",
+                "e:\\docs\\Embedded\\jkd_stm32\\MyWorkPlace\\04_IRSensor_Interrupt\\Library",
+                "e:\\docs\\Embedded\\jkd_stm32\\MyWorkPlace\\04_IRSensor_Interrupt\\User",
+                "e:\\docs\\Embedded\\jkd_stm32\\MyWorkPlace\\04_IRSensor_Interrupt\\System",
+                "e:\\docs\\Embedded\\jkd_stm32\\MyWorkPlace\\04_IRSensor_Interrupt\\Hardware",
                 "${default}",
                 "${workspaceFolder}/**"
             ],
