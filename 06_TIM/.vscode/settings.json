@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "Makefile": "cpp",
+        "stm32f10x.h": "c",
+        "oled_font.h": "c",
+        "limits": "c",
+        "memory": "c",
+        "irsensor.h": "c",
+        "rotary.h": "c",
+        "xmemory": "c",
+        "xutility": "c",
+        "timer.h": "c"
+    }
+}
